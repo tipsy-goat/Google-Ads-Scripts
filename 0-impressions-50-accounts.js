@@ -1,3 +1,5 @@
+//Finds accounts with 0 Impressions and mails them to a specified mail.
+
 function main() {
   var accounts = [];
 
